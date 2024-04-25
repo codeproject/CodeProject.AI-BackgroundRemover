@@ -25,6 +25,6 @@ onnxruntime                 # Installing the ONNX runtime
 ## scipy==1.8.0
 ## tqdm==4.62.3
 
-codeproject-ai-sdk          # Installing the CodeProject.AI SDK
+CodeProject-AI-SDK          # Installing the CodeProject.AI SDK
 
 # last line blank

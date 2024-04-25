@@ -19,6 +19,6 @@ Pillow<10.0.0               # Installing Pillow, a Python Image Library
 
 flatbuffers                 # Installing FlatBuffers serialization format support
 
-codeproject-ai-sdk          # Installing the CodeProject.AI SDK
+CodeProject-AI-SDK          # Installing the CodeProject.AI SDK
 
 # last line blank
