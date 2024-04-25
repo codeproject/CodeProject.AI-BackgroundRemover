@@ -60,7 +60,7 @@
           { "ModuleVersion": "1.8.0",  "ServerVersionRange": [ "2.5.0-RC6", ""   ],   "ReleaseDate": "2024-01-21", "ReleaseNotes": "Module performance statistics added" },
           { "ModuleVersion": "1.8.1",  "ServerVersionRange": [ "2.5.2", "2.6.0"  ], "ReleaseDate": "2024-02-08", "ReleaseNotes": "Support for CodeProject.AI Server 2.5.2" },
           { "ModuleVersion": "1.9.0",  "ServerVersionRange": [ "2.6.1", ""       ], "ReleaseDate": "2024-04-01", "ReleaseNotes": "Fixes for macOS, updated for Server 2.6" },
-          { "ModuleVersion": "1.10.0", "ServerVersionRange": [ "2.7.0", ""       ], "ReleaseDate": "2024-04-01", "ReleaseNotes": "Fixes for macOS, updated for Server 2.7" }
+          { "ModuleVersion": "1.10.0", "ServerVersionRange": [ "2.7.0", ""       ], "ReleaseDate": "2024-04-25", "ReleaseNotes": "Fixes for macOS, updated for Server 2.7" }
         ]
       },
 
