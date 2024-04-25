@@ -21,12 +21,8 @@ To call:
 import sys
 import time
 
-# Import the CodeProject.AI SDK. This will add to the PATH var for
-# future imports
-sys.path.append("../../SDK/Python")
-from request_data import RequestData
-from module_runner import ModuleRunner
-from common import JSON
+# Import CodeProject.AI SDK
+from codeproject_ai_sdk import RequestData, ModuleRunner, JSON
 
 # Import the method of the module we're wrapping
 from PIL import Image
