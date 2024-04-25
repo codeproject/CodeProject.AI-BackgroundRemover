@@ -3,7 +3,7 @@
 
     "BackgroundRemover": {
       "Name": "Background Remover",
-      "Version": "1.9.0",
+      "Version": "1.10.0",
 
       "PublishingInfo" : {
         "Description": "Automatically removes the background from a picture", 
