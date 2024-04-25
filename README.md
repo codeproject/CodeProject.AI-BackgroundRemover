@@ -17,8 +17,7 @@ This is an image Background Remover module using the for [CodeProject.AI Server]
          - src
          - ... etc
       - CodeProject.AI-Modules
-         - CodeProject.AI-BackgroundRemover
-         (this repo)
+         - CodeProject.AI-BackgroundRemover (this repo)
     ```
 
 3. **If you have NOT run dev setup on the server**
